@@ -6,6 +6,7 @@ SlopDaddy is an open-source project aimed at combating AI slop. I have nfi if/ho
 
 ## Goals
 
+- Build a mechanism to dynamically adjust slop dataset
 - Create a v0.1 slop classifier.
 
 ## How to Contribute
